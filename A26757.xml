@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The confession of the faithfull witnesse of Christ, Mr. John Bastwick doctor of physick wherein he doth declare his education and the grounds of his conversion and constancie, in the true professions of Faith : with the reasons wherefore hee became an adversary to our bishops whom he proveth to be the toes of antichrist and dangerous prelates to abide in our church : with a relation of their great pride in setting the kings picture over their dresser in the high commission court, with his hat off and his crown and scepter laid downe before their worships like a delinquent / by Iohn Bastwick...</title>
+            <author>Bastwick, John, 1593-1654.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26757</idno>
+            <idno type="STC">Wing B1059</idno>
+            <idno type="STC">ESTC R1532</idno>
+            <idno type="EEBO-CITATION">12773823</idno>
+            <idno type="OCLC">ocm 12773823</idno>
+            <idno type="VID">93713</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26757)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93713)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 256:E175, no 3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The confession of the faithfull witnesse of Christ, Mr. John Bastwick doctor of physick wherein he doth declare his education and the grounds of his conversion and constancie, in the true professions of Faith : with the reasons wherefore hee became an adversary to our bishops whom he proveth to be the toes of antichrist and dangerous prelates to abide in our church : with a relation of their great pride in setting the kings picture over their dresser in the high commission court, with his hat off and his crown and scepter laid downe before their worships like a delinquent / by Iohn Bastwick...</title>
+                  <author>Bastwick, John, 1593-1654.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to bee sold by H. W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Woodcut portrait on t.p.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bastwick, John, 1593-1654.</term>
+               <term>Church of England --  Bishops --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93713:1"/>
+            <pb facs="tcp:93713:1" rendition="simple:additions"/>
+            <p>THE CONFESSION Of the faithfull Witneſſe of Chriſt, Mr. John Baſtwick Doctor of Phyſick. Wherein he doth declare his Education, and the grounds of his Converſion, and Conſtancie, in the true profeſſion of FAITH.</p>
+            <p>With the Reaſons wherefore hee became an Adverſary to our Biſhops, whom he proveth to be the Toes of Antichriſt, and dangerous Prelates to abide in our Church</p>
+            <p>With a Relation of their great pride, in ſetting the Kings Picture over their Dreſſer in the High Commiſſion Court, with his hat off, and his Crown and Scepter laid downe before their Worſhips, like a Delinquent.</p>
+            <p>By IOHN BASTWICK Doctor of Phyſicke.</p>
+            <figure>
+               <figDesc>woodcut portrait</figDesc>
+               <head>The lively <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ffegies of Mr. Iohu <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſtwicke. Doctor of Phyſicke, and ſufferer un<g ref="char:EOLhyphen"/>der the <hi>Prelates.</hi>
+               </head>
+            </figure>
+            <p>London printed, and are to bee ſold by H. W. <hi>1641.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:93713:2"/>
+            <head>The c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nfeſsion of Ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſter <hi>Iohn Baſtwick</hi> Doctor <hi>of PHISICK.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg> Have heard many Sermons at the Court, yer never did I heare any, wherein I ſaw not the PURITAN brought up, with one ſcorne or other, and ſome no<g ref="char:EOLhyphen"/>torious lyes told of them. So that I won<g ref="char:EOLhyphen"/>der not that thoſe poore men are thought ſo evill of, though a moſt inno<g ref="char:EOLhyphen"/>cent and harmeleſſe people as any lives upon the Earth. For when the place of God it ſelfe, from whence truth ſhould onely ſound, is made a Theater of lying and falſe accuſations, no wonder that the Kings Majeſty, and Nobles of the Kingdome, have a prejudicate opinion of them they call <hi>Puritans,</hi> when they expect nothing but truth and veritable narrations from that place.</p>
+            <p>In my yonger dayes (that I may in ſomething relate my own condition) <hi>I was bred in as great a hatred of Puritans,</hi> as any ten<g ref="char:EOLhyphen"/>der yeeres were capable of, as it is well known, and thought thoſe men not worthy to live, yet knew not any of them, (our Countrey having then ſcarce two in it) neither was there a Sermon perhaps in halfe a yeere thereabouts, and that read out of a paper booke, and halfe of it commonly was railing againſt the <hi>Puritans.</hi> But when it pleaſed God that ſome of thoſe, that ſpake evilleſt of them (through ſurfeting, and exceſſe had brought themſelves to languiſhing ſick<g ref="char:EOLhyphen"/>neſſe, and after to Death it ſelfe) I ſay, when thoſe men, in their greateſt extremities, choſe rather to truſt them, yea and to prefer them, before their own brethren and nereſt kinſ-folks, and bequeath their children and Eſtate into their hands, &amp; then being alſo deman<g ref="char:EOLhyphen"/>ded
+<pb facs="tcp:93713:2"/>the reaſon of ſuch truſt, and confidence in them, whom they had reputed the worſt of men before, and moſt of all traduced, &amp; hated, they then openly declared themſelvs, and their opinion of them, ſay<g ref="char:EOLhyphen"/>ing that they were now dying men, &amp; that it was now time to ſpeak the truth, and that they in their hearts beleeved they were the true ſervants of the Lord, howſoever deſpiſed &amp; contemned in the world and withall they deſired that their ſoules might goe the way that theirs went.</p>
+            <p>
+               <hi>I ſay, when I ſaw ſuch a wonderfull change in theſe men, who were many of them, of knowledge and underſtanding in all Reli<g ref="char:EOLhyphen"/>gions, and ſome of them travellers and Courtiers, and that now on their death-beds, they ſhould give ſuch an approbation, and ſo honourable teſtimony of thoſe men, of whom they had in their pro<g ref="char:EOLhyphen"/>ſperity ſpoken ſo maliciouſly, I being then of yeares of diſcreti<g ref="char:EOLhyphen"/>on, and better able to diſcerne and judge of things that differ, began more ſeriouſly to conſider of that matter, and ſo much the more ſtudious I was, becauſe</hi> I <hi>had in ſome ſort, ſeen the vanity of all pleaſures, having indeed bin bred in nothing elſe. The right way then to find bleſſednes, was my only aym: which through Gods ſpeciall favour and benediction upon my earneſt endevors, dayly reading of the Word and holy Scriptures, private duties, godly ſociety, and frequent hearing of the word, which is onely a<g ref="char:EOLhyphen"/>ble to ſave our ſoules, J found out, to the praiſe and honour of his name be it ſpoken. And J then well perceived, looking into the lives and manners of men, that thoſe that were commonly bran<g ref="char:EOLhyphen"/>ded with the name of Puritans, were the happieſt, and that if any were eternally bleſſed, they were ſuch of them as ſquared their lives in ſincerity, according to their profeſsion.</hi>
+            </p>
+            <p>And leſt that I might through an overweening conceit of ſome ſeeming bleſſedneſſe in them, be miſtaken; I contented not my ſelfe with home-comparing of men and domeſticall experience, but I re<g ref="char:EOLhyphen"/>ſolved to ſeeke out ſtill a more excellent way, if there were any; whereupon I went into forraine Nations, and lived amongſt all ſorts of men, &amp; in the greateſt Princes Courts converſing among all ranks and orders of them, and that many years, and amongſt all profeſſions, Courtiers, Souldiers, Schollers, Citizens, Marchants, and among all
+<pb facs="tcp:93713:3"/>ſects, of factions, and religions, &amp; examining all thoſe in the ballance of judgment, I found none in life and death happy, and truely com<g ref="char:EOLhyphen"/>fortable, but thoſe that are branded with the name of <hi>Puritans,</hi> or at leaſt thoſe that live and dye in their Faith. And for my own par<g ref="char:EOLhyphen"/>ticular, to ſpeake now my Conſcience, I had rather goe the way of the meaneſt <hi>Puritans,</hi> that live and dye according to their profeſſi<g ref="char:EOLhyphen"/>on, then of the greateſt Prelates that ever lived upon the earth; &amp; this I ſpeak in the preſence of God; for of the ones happineſſe I am as ſure, as the Word of God is ſure, &amp; of the others I can promiſe nothing he living in Rebellion to God all the dayes of his life, and his Repentance not knowne unto me.</p>
+            <p>And notwithſtanding, I ſay, all this, that theſe are ſuch an holy peo<g ref="char:EOLhyphen"/>ple: yet are they made but the off-ſcouring of the world, &amp; of all things, and brought upon every Stage, and into the Pulpit, as fitteſt for ludibry by the Players, Prieſts, and Prelates, yea and in their Courts it is enough to ruine a mans cauſe, if his Adverſary can but taint him with the name of a Puritan; but moſt eſpecially are they vilely abuſed by the <hi>Prieſts and Prelates</hi> in their pulpits.</p>
+            <p>Now I ſay, if it be lawfull in them, to make playes of honeſt men, and to faine what they pleaſe againſt them: I pray let it be lawfull in me, in meriment to ſpeak the truth of them, which as near as I can I will not tranſgreſſe. If ſome ſhall ſay, they have not ſo great trains nor ſo much adoe in their marching; I affirme, that at all times, <hi>they goe more like Princes, then humble Miniſters of Chriſt, and the Apo<g ref="char:EOLhyphen"/>ſtles Succeſſors,</hi> of whom we never read, they came ever in Coach or on horſeback, but when <hi>Paul was mounted by authority;</hi> or that they had ever a ſervant to attend them, much leſſe ſuch pompe and State: and yet one of them converted more ſoules in one day, then all the <hi>Prelates</hi> ever did that ever I read off: neither to ſpeak truly have I heard of any they ever converted, but of many thouſands they have confounded. But now to the matter in hand, becauſe one o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their abetters ſaid not long ſince, that they had not ſuch atten<g ref="char:EOLhyphen"/>dance as I accuſe them of. I ſay, if they have leſſe company one day, they have more an other, and whether they be their own or others Servants, when they are in their company, be they the no<g ref="char:EOLhyphen"/>bles themſelves, they are all their attendants, and the beſt of them moſt heartily glad if by their ſervice they can pleaſe them, and we know it uſuall that the demonſtration of the retinu is always from the greateſt, and they are found to be his followers. And I have heard the Purſivants often brag of the greatneſſe of their Maſters
+<pb facs="tcp:93713:3"/>attendance, and in ſuch ample manner as I think the Kings Majeſty hath not commonly greater: and therefore that cannot be deny<g ref="char:EOLhyphen"/>ed, which is daily practiſed, And for their ſervants inſolency I have frequently both ſeene it and felt it. Now whereas you think, it will not be well taken <hi>that I call Biſhops, Prieſts, and Deacons, Anti<g ref="char:EOLhyphen"/>chriſts little toes;</hi> and in my LETANY deſire deliverance from them, and withall ſeeme to accuſe them of incontinency, all which you think will be cenſured of unadviſedneſſe at leaſt, if not thought ſcandalous and puniſhable.</p>
+            <p>To this I anſwere, firſt, that <hi>By Biſhops I underſtand the Pre<g ref="char:EOLhyphen"/>lates,</hi> and by <hi>Prieſts their own creatures, a generation unknown in the Church of Chriſt: and by Deacons the under Prieſts in this Kingdome,</hi> Officers of which the Scripture knoweth nothing likewiſe. For <hi>the Deacons</hi> ſuch as the Churches choſe, and were allowed by the Apo<g ref="char:EOLhyphen"/>ſtles, they were men of gravity, full of faith and the Holy Ghoſt, men of wiſdome and good government and honeſty, and were the treaſurers of the faithfull &amp; the Church of God, and diſtributed the liberality of the Saints amongſt the poore indigent and neceſſitated brethren. <hi>Now I know never a</hi> Deacon in England <hi>either guilty of a<g ref="char:EOLhyphen"/>ny of thoſe vertues before ſpecified. or that was ever imployed in that Office, or was thought fit to be truſted, vvith the treaſury of the poore, or tooke the leaſt care of them, vvhom ordinarily they trample upon und moſt reproachfully abuſe vvith the name of raſcality.</hi> So that ſuch Deacons as I pray againſt are limbs of the <hi>Beaſt,</hi> and the inferior order of ſhavelings and <hi>ſuch as ought to be ſpewed out of the Church as profitable for nothing but increaſe of wickedneſſe.</hi>
+            </p>
+            <p>And for Biſhops ſuch as God appointed I honour them, and will maintain their dignity to the laſt drop of my bloud, ſo far I am from praying againſt ſuch. Neither did I ever ſpeake unreverently againſt the <hi>Kings Biſhops</hi> and thoſe that were appointed as an or<g ref="char:EOLhyphen"/>der in the State, till they had in their open Court renounced his authority, &amp; run themſelves by that, and many other notorious pro<g ref="char:EOLhyphen"/>ceedings into a <hi>Primunire,</hi> &amp; ſo had made themſelves enimies to his Prerogative royall, &amp; delinquents againſt his Majeſty, and under his Highneſſes diſpleaſure, as by the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tatutes of the Kingdome they are proclamed to be, and by the defenders of their proceedings in their Eccleſiaſticall Courts: who in a booke ſet forth by their common conſent, do conclude all theſe in a <hi>Premunire,</hi> that challenge their authority <hi>Iure devino,</hi> as the Pope and Clergie of <hi>Rome,</hi> which at this time they doe.</p>
+            <pb facs="tcp:93713:4"/>
+            <p>And for your better ſatisfaction, looke in the <hi>Apologie for procee<g ref="char:EOLhyphen"/>dings in Courts Eccleſiaſticall</hi> (a booke made by the <hi>Prelates</hi> own creatures) and in the firſt Chapter, you ſhall ſee all the <hi>Prelats</hi> by their own witneſſe in a <hi>Premunire,</hi> and delinquents againſt his Ma<g ref="char:EOLhyphen"/>jeſty in a high degree of contumacy.</p>
+            <p>And truly I think there was never ſuch an affront put upon regall Dignity, as on that day I was cenſured, never ſuch diſhonour put upon the Scriptures, by ſuch as would be thought Miniſters of the word, and the Biſhops and Paſtors of Chriſt: Neither were the Scriptures ever more blaſphemouſly abuſed, then they were at that time, in their open aſſembly, I ſhall briefely therefore tell you that dayes work, of which there are a thouſand witneſſes, as alſo impious words againſt the moſt ſacred word of God and divine O<g ref="char:EOLhyphen"/>racles of holy writ, by all which, you will ſee, I have good reaſon to call them ANTICHRISTS LITTLE TOES, and to pray a<g ref="char:EOLhyphen"/>gainſt them; for they are as deſperately impious, and equally to bee deteſted of all ſuch as truly feare the Lord and the King. For if we compare them together, there will no diſparity appeare betwene them, they being every way as malicious againſt the word of God and his deare ſervants, <hi>and as diametrally oppoſing regality as Anti<g ref="char:EOLhyphen"/>chriſt himſelfe,</hi> But that all things may the more cleerely be eviden<g ref="char:EOLhyphen"/>ced unto you, let me tell you that daies proceedings,</p>
+            <p>You muſt take notice, that howſoever, they had fained ſome triviall Articles againſt mee, they were all by the generall conſent of the Court thought ſo poore, as they openly averred they would not condemne mee for them, and ſo much the rather, becauſe thoſe that had ſworne to them, were proved to bee my Capitall enimies, and alſo, in their depoſitions to have ſworn point blanck one againſt an other, &amp; like evill wiineſſes could not agree in ſwearing: there<g ref="char:EOLhyphen"/>fore they condemne me onely for my booke which I writ in de<g ref="char:EOLhyphen"/>fence of Chriſt and his Kingdome, and of the Kings moſt excellent Majeſties prerogative Royall, and ſupremacy againſt the Pope and Popiſh Biſhops, provoked thereunto by a Papiſt; to which duty I was bound both by the law of God and the law of the land, and my ſpeciall oath, all which I alleadged at the bar, and furthermore added that in writing againſt the Biſhop of <hi>Rome, I</hi> intend no ſuch <hi>Biſhops as acknowledg their authority from Kings and Emperours, but onely ſuch Biſhops that uſurp authority over Kings and Emperours, aend their fellow brethren and the Church of God jurc divinos and ſe I had prefeced in my</hi> Booke, <hi>which I openly readt here.</hi>
+            </p>
+            <pb facs="tcp:93713:4"/>
+            <p>And to ſpeake the truth, I looked for favour and aſſiſtance in this combat, from the <hi>Prelates;</hi> never ſuſpecting that they would have bin my enemyes, for this endeavour, eſpecially I having alſo in that place alledged the Acts &amp; Statutes eſtabliſhed by the publick con<g ref="char:EOLhyphen"/>ſent of the whole Kingdome, in which it was ratified, that the Pre<g ref="char:EOLhyphen"/>lates have all their authority and juriſdiction which they now exer<g ref="char:EOLhyphen"/>ciſe, from the King, as immediatly derived from him, and to affirme the contrary, is to be <hi>ipſo facto</hi> an enemy of his Crown &amp; Dignity. And as the Prelates were an order eſtabliſhed by the King &amp; State, I was ſo far from oppoſing them, that I never impeached their dig<g ref="char:EOLhyphen"/>nity in the leaſt thing in all the booke; neither would I ever have medled with them, if they had kept their ſtanding; but they like the evill Angels out of pride, not keeping their 1 ſtation, but openly re<g ref="char:EOLhyphen"/>nouncing the Kings authority, and affirming, that Jeſus Chriſt made them Biſhops, and that the holy Ghoſt conſecrated them, and that they were Princes and had their thrones, and that before Kings, and all this <hi>Iure divino:</hi> by all which, they made me their enemy, they being delinquents againſt the King. And becauſe I had ratified, what ſoever I had ſaid in my booke by the Word of God; they as they had before renounced the Kings authority, and barbarouſly reviled me for my paines, moſt impiouſly, likewiſe vilified the holy Scri<g ref="char:EOLhyphen"/>pture, ſaying in their Seſſions, that they looked for ſome great mat<g ref="char:EOLhyphen"/>ter in my book, finding me ſo confident, but more diligently reading of it, they found nothing but Scripture in it, which was the refuge of all Schiſmaticks and Hereticks: and that the Scripture could not be known to be Scripture, but by the Fathers, nor diſtinguiſhed from the Apocrypha, but by the Fathers: nor the meaning of the Scri<g ref="char:EOLhyphen"/>pture could not be known but by the Fathers: and becauſe the Fa<g ref="char:EOLhyphen"/>thers, as they ſaid, were in their interpretation diverſe from mee (which notwithſtanding is not ſo) therefore they condemned me.</p>
+            <p>But I pray, are not all theſe blaſphemous, Popiſh, and Damnable aſſertions, could worſe have b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n forged in the very conclave of hell? Is not this I pray you, to tell the ſpirit of God to his face he lyes, and to teach another way to heaven then by the Scripture; which Chriſt the Son of God ſende<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h us to, and all the Prophets and Apo<g ref="char:EOLhyphen"/>ſtles, as to the Inſtructers of the ſimple, and able to make the man of God wiſe to ſalvation, &amp; perfectly furniſhed to every good work, and the which the holy Ghoſt compares to a Guide, &amp; a Lanthorn for direction; and a light to conduct us in this our Pilgrimage &amp; pe<g ref="char:EOLhyphen"/>regrination
+<pb facs="tcp:93713:5"/>through the errors of the world, and to keepe our feet in the paths of truth, and with the Prelates this great and glorious light; this Scripture muſt be ſo obſcure, as it muſt be inferior to all things that have a power in themſelves to declare and demonſtrate their own nature, as fire to be fire, gold to be gold light to be light. But the Scripture onely that cannot be known, but by the helpe of others, to be the Word of God, it cannot be the word of God with<g ref="char:EOLhyphen"/>out the Fathers, and their Interpretation of them; for the Scriptures themſelves they are the onely refuge of Schiſmaticks, the cauſe of all errors, and that that commeth confirmed and proved onely from Scripture, is ever to be ſuſpected with the Prelates. <hi>O Blaſphemy,</hi> yea the booke that hath nothing but Scripture, muſt be adjudged to the fire, and the Author of it given over to the Divell, fined 1000 ls, and cenfured to pay the coſts of ſute, &amp; be debarred of his practice, only ſupport left for the reliefe of his diſtreſſed family, to the utter undoing of him, his poore wife and children, and all this for ſooth, becauſe there was nothing but Scripture in it. O horrible Impiety! The truth is, howſoever they ſeemed to condemn it; becauſe it had nothing but Scripture that was not the occaſion, but the very cauſe was, becauſe I writ againſt the Pope Father <hi>Antichriſt,</hi> ſuch corre<g ref="char:EOLhyphen"/>ſpondency there is now betweene the Pope and the Prelates, that one cannot write againſt him, but the Prelates ſay by and by, that they are meant by it. <hi>The Grolls.</hi>
+            </p>
+            <div type="part">
+               <p>IT is worth the looking on, to ſee the pride of the Prelates, in ſetting the Kings picture over their dreſſer, in the high Commiſſion Court; for they have placed his Highnes ſtanding, with his hat off before their Worſhips, like a delinquent, his Crown &amp; Soepter laid low, as the poore Emperors and Kings were wout to ſtand before his impiety, the Pope, when they were cited to his Courts. Of which ſtories you may read ma<g ref="char:EOLhyphen"/>ny in King <hi>James,</hi> his Apologie, to goe no farther and in this very man<g ref="char:EOLhyphen"/>ner, have they ſet up the Portraits of our renowned King. And the ve<g ref="char:EOLhyphen"/>ry intrinſecall Marry-bone of the matter is, they trample upon his Im<g ref="char:EOLhyphen"/>periall dignity, while they ſeeme to honour him, with whom they make themſelves in the meane time Ch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ckmates: for they ſay, they were be<g ref="char:EOLhyphen"/>fore Chriſtian Kings, and had their thrones, and that they were not be<g ref="char:EOLhyphen"/>holding to them for their Honour, and Dignity of Epiſcopality, for they were <hi>Jure Divino,</hi> that they were.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
